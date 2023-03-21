@@ -82,7 +82,7 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 
 ## Code Samples
 
-- Todo
+1. [文本生成的演进](code/NLP基础课第一节-文本生成.ipynb)
 
 ## Homeworks
 
