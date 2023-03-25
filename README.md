@@ -84,6 +84,7 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 
 1. [文本生成的演进](code/NLP基础课第一节-文本生成.ipynb)
 2. [N-gram文本生成](code/NLP%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%AC%AC%E4%BA%8C%E8%8A%82-N_Gram%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%8F%8A%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90.ipynb)
+3. [METEOR](Related/METEOR.ipynb)
 
 ## Homeworks
 
