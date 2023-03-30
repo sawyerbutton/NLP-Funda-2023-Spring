@@ -94,5 +94,6 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 ## Related Works
 
 1. [METEOR](Related/METEOR.ipynb)
-2. [Build Wiki Corpus](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/%E4%BD%BF%E7%94%A8Wiki%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%96%87%E6%9C%AC%E7%B0%87.ipynb)
+2. [构建基于Wiki的文本簇](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/%E4%BD%BF%E7%94%A8Wiki%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%96%87%E6%9C%AC%E7%B0%87.ipynb)
+3. [文本预处理Demo](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86Demo.ipynb)
 
