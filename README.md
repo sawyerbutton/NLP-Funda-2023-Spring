@@ -91,6 +91,8 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 ## Homeworks
 
 2. [N-Gram-Python实现snippet](Homework/NLP%E5%9F%BA%E7%A1%80%E7%AC%AC%E4%BA%8C%E8%8A%82%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A.py)
+3. [基于NN的词向量表示](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Homework/words_vetctorize.ipynb)
+
 
 ## Related Works
 
