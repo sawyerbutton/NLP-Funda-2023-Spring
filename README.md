@@ -101,3 +101,4 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 3. [文本预处理Demo](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86Demo.ipynb)
 4. [如何使用NLTK进行词性标注](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8NLTK%E8%BF%9B%E8%A1%8C%E8%AF%8D%E6%80%A7%E6%A0%87%E6%B3%A8.ipynb)
 5. [后GPT4时代-什么是 Prompt](https://gist.github.com/sawyerbutton/2305cd60e134ffc06d8402fbfc4b7035)
+6. [SVD分解_1](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/SVD%E5%88%86%E8%A7%A320230410.pdf)
