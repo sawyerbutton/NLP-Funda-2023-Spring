@@ -87,6 +87,7 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 3. [补充内容-使用Python创建一个NLP任务的Vocabulary](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/%E4%BD%BF%E7%94%A8Python%E6%90%AD%E5%BB%BAVocabulary.ipynb)
 4. [文本预处理基础案例-推特客服服务信息](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/%E6%8E%A8%E7%89%B9%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86.ipynb)
 5. [RNN_From_Scratch](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/RNN_From_Scratch_1.ipynb)
+6. [GLove_implementation](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/Glove_Implementation.ipynb)
 
 
 ## Homeworks
