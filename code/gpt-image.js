@@ -1,3 +1,17 @@
+(async function () {
+const loadScript = (url, globalVar) => {
+    return new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.src = url;
+      script.onload = () => {
+        resolve(window[globalVar]);
+      };
+      script.onerror = reject;
+      document.head.appendChild(script);
+    });
+  };
+
+await loadScript('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js', 'html2canvas');
 class Elements {
   constructor() {
     this.init();
@@ -65,7 +79,6 @@ function downloadThread({ as = Format.PNG } = {}) {
   const elements = new Elements();
   elements.fixLocation();
   const pixelRatio = window.devicePixelRatio;
-  // since I only need to export to image format, following two lines code mean less
   const minRatio = as === Format.PDF ? 2 : 2.5;
   window.devicePixelRatio = Math.max(pixelRatio, minRatio);
 
@@ -94,15 +107,16 @@ function handleImg(imgData) {
   const blob = new Blob([new Uint8Array(data)], { type: "image/png" });
   const url = URL.createObjectURL(blob);
 
-  window.open(url, "_blank");
+  // window.open(url, "_blank");
 
   const a = document.createElement("a");
   a.href = url;
-  a.download = "chat-gpt-image.png";
+  const timestamp = new Date().getTime();
+  const fileName = `${timestamp}.png`;
+  a.download = fileName;
   a.click();
 }
-  // since I only need to export to image format, following two lines code mean less
-  // if you wanna to export to pdf file, import pdfjs lib before everything, otherwise you will get an error about 'operty 'jsPDF' of 'window.jspdf' as it is undefined.
+
 function handlePdf(imgData, canvas, pixelRatio) {
   const { jsPDF } = window.jspdf;
   const orientation = canvas.width > canvas.height ? "l" : "p";
@@ -116,5 +130,7 @@ function handlePdf(imgData, canvas, pixelRatio) {
   pdf.save("chat-gpt.pdf");
 }
 
-downloadThread();
+downloadThread()
+})();
+
 //# sourceURL=snippet:///%E8%84%9A%E6%9C%AC%E4%BB%A3%E7%A0%81%E6%AE%B5%20%238
