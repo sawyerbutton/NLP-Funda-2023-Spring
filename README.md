@@ -89,6 +89,7 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 5. [RNN_From_Scratch](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/RNN_From_Scratch_1.ipynb)
 6. [GLove_implementation](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/Glove_Implementation.ipynb)
 7. [ChatGPT-Conversation2Image](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/gpt-image.js)
+8. [Transformer_Source_Code](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/Transformer_Source_Code.ipynb)
 
 
 ## Homeworks
