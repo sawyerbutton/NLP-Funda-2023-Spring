@@ -132,5 +132,3 @@ function handlePdf(imgData, canvas, pixelRatio) {
 
 downloadThread()
 })();
-
-//# sourceURL=snippet:///%E8%84%9A%E6%9C%AC%E4%BB%A3%E7%A0%81%E6%AE%B5%20%238
