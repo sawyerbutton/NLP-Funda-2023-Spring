@@ -96,6 +96,7 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 12. [Bert3](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/Bert_Demo_3.ipynb)
 13. [Annotated-Bert-Tokenization-Sourcecode](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/Bert-Tokenization-Annotated.py)
 14. [Annotated-Bert-Run-Classifier-Sourcecode](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/Bert-Run-Classifier-Annotated.py)
+15. [Annotated-Bert-Modeling-Sourcecode](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/code/Bert-Modeling-Annotated.py)
 
 
 ## Homeworks
