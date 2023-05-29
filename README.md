@@ -115,3 +115,4 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 6. [SVD分解_1](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/SVD%E5%88%86%E8%A7%A320230410.pdf)
 7. [LangChain-01](https://gist.github.com/sawyerbutton/412a6c1dbde2b112faa7f84493b9e28f)
 8. [LangChain-usecases](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/langchain_usecases.ipynb)
+9. [Linux-Funda](https://gist.github.com/sawyerbutton/2328d829cb5d56d0b3f2d017f869d747)
