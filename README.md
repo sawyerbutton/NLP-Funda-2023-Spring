@@ -118,3 +118,4 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 9. [Linux-Funda](https://gist.github.com/sawyerbutton/2328d829cb5d56d0b3f2d017f869d747)
 10. [Positional Encoding in Transformer](https://gist.github.com/sawyerbutton/4b7cb394dc29c385adb6051b266570a4)
 11. [浮点数类型初探](https://gist.github.com/sawyerbutton/40a62689511fd7c0adc7d52760c0d656)
+12. [浮点数类型再探fp16与bf16](https://gist.github.com/sawyerbutton/a0f870200e26577ea9895f1c669ccf64)
