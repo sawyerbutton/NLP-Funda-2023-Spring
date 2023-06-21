@@ -119,3 +119,4 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 10. [Positional Encoding in Transformer](https://gist.github.com/sawyerbutton/4b7cb394dc29c385adb6051b266570a4)
 11. [浮点数类型初探](https://gist.github.com/sawyerbutton/40a62689511fd7c0adc7d52760c0d656)
 12. [浮点数类型再探fp16与bf16](https://gist.github.com/sawyerbutton/a0f870200e26577ea9895f1c669ccf64)
+13. [GPT模型详细解释大纲](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/GPT%E6%A8%A1%E5%9E%8B%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A.pdf)
