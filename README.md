@@ -121,3 +121,4 @@ Course Hour：Every Weekend 16:00pm-17:30pm
 11. [浮点数类型初探](https://gist.github.com/sawyerbutton/40a62689511fd7c0adc7d52760c0d656)
 12. [浮点数类型再探fp16与bf16](https://gist.github.com/sawyerbutton/a0f870200e26577ea9895f1c669ccf64)
 13. [GPT模型详细解释大纲](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/GPT%E6%A8%A1%E5%9E%8B%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A.pdf)
+14. [ChatGLM2-6b微调保姆级教程 - More-Annotation&Colab-Support](https://github.com/sawyerbutton/NLP-Funda-2023-Spring/blob/main/Related/ChatGLM2-6b%E5%BE%AE%E8%B0%83%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%20-%20More-Annotation%26Colab-Support.ipynb)
